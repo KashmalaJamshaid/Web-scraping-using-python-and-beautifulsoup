@@ -6,4 +6,4 @@ This notebook includes data scraping, which takes a website URL as an input and 
 3. Extracting ALT tags
 4. Counting words inside a web page
 5. Inspection of broken links inside a webpage
-6. Extracting the source code of the webpage
+6. Extracting the source code of the webpage in google colab
