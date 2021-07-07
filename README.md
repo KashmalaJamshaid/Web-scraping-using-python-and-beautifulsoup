@@ -1,4 +1,4 @@
-# Web-scraping-using-python
+# Web-scraping-using-python-and-beautifulsoup
 
 This notebook includes data scraping, which takes a website URL as an input and extracts the information listed below as an output from that webpage.
 1. Specific HTML tags along with titles and meta description
