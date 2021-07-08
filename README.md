@@ -7,3 +7,5 @@ This notebook includes data scraping, which takes a website URL as an input and 
 4. Counting words inside a web page
 5. Inspection of broken links inside a webpage
 6. Extracting the source code of the webpage in google colab
+7. Extracting all URLs from a website without duplication
+8. Measuring the forntend and backend performance of website
